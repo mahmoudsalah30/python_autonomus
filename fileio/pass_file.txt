@@ -1,0 +1,6 @@
+mostafa1 100 p
+mostafa2 200 p
+mostafa3 300 p
+mostafa4 400 p
+mostafa6 100 p
+mostafa8 100 p
